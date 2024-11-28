@@ -6,8 +6,8 @@ criaCartao(
 
 criaCartao(
     'Geografia',
-    'O que é a ONU?',
-    'A Organização das Nações Unidas (ONU) é uma organização internacional fundada em 1945 para intermediar as relações internacionais, harmonizar a ação das nações diante de objetivos comuns, atuar para o desenvolvimento mundial e garantir a paz.'
+    'Qual a capital da Russia??',
+    'A capital da Russia é Moscou'
 )
 
 criaCartao(
@@ -18,6 +18,6 @@ criaCartao(
 
 criaCartao(
     'Lingua inglesa',
-    'Como se diz Bom em Inglês?',
-    'Oi em ingles é Good! (ɡo͝od)'
+    'Como se diz Cavalo em Inglês?',
+    'Oi em ingles é Horse (hôrs)!'
 )
